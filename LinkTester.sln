@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkTester", "LinkTester\LinkTester.csproj", "{28352C5A-0832-4E08-9C74-EAF7F6535E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28352C5A-0832-4E08-9C74-EAF7F6535E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28352C5A-0832-4E08-9C74-EAF7F6535E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28352C5A-0832-4E08-9C74-EAF7F6535E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28352C5A-0832-4E08-9C74-EAF7F6535E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ABE3959-017E-493F-9B72-D7F2773CB78E}
+	EndGlobalSection
+EndGlobal
